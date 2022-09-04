@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Assembler.dir/code.cpp.o CMakeFiles/Assembler.dir/main.cpp.o CMakeFiles/Assembler.dir/parser.cpp.o CMakeFiles/Assembler.dir/symbol_table.cpp.o  -o Assembler 
