@@ -1,0 +1,3 @@
+/home/user/dev/nand2tetris/06/assembler/build/CMakeFiles/rebuild_cache.dir
+/home/user/dev/nand2tetris/06/assembler/build/CMakeFiles/edit_cache.dir
+/home/user/dev/nand2tetris/06/assembler/build/CMakeFiles/Assembler.dir
