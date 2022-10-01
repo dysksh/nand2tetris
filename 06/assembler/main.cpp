@@ -50,9 +50,8 @@ int main(int argc, char *argv[])
 	writing_file.open(writing_filename, ios::out);
 	while(true)
 	{
-		assembly_parser.advance();
-
 		if (!assembly_parser.has_more_commands()) break;
+		assembly_parser.advance();
 
 		if (assembly_parser.command_type() == "a_command")
 		{

@@ -32,10 +32,6 @@ parser.hpp
 symbol_table.hpp
 /home/user/dev/nand2tetris/06/assembler/symbol_table.hpp
 
-/home/user/dev/nand2tetris/06/assembler/parser.cpp
-parser.hpp
-/home/user/dev/nand2tetris/06/assembler/parser.hpp
-
 /home/user/dev/nand2tetris/06/assembler/parser.hpp
 fstream
 -
@@ -45,10 +41,6 @@ string
 -
 algorithm
 -
-
-/home/user/dev/nand2tetris/06/assembler/symbol_table.cpp
-symbol_table.hpp
-/home/user/dev/nand2tetris/06/assembler/symbol_table.hpp
 
 /home/user/dev/nand2tetris/06/assembler/symbol_table.hpp
 map
