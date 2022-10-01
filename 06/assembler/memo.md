@@ -1,6 +1,6 @@
-cd assembler/build
-cmake ..
-cmake --build .
+cd assembler/build<br>
+cmake ..<br>
+cmake --build .<br>
 ./Assembler <required input.asm> <optional output.hack>
 
 - エラー処理は趣旨から外れるので書いていない
